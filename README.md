@@ -1,1 +1,1 @@
-This repository is using for recording my algorithm codes and some notes.
+This repository is using for keeping my algorithm codes and some notes.
